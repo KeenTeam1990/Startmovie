@@ -1,2 +1,1 @@
-# startMovie
-启动动画
+# StartMovie
